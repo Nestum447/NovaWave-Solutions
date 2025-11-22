@@ -1,3 +1,5 @@
+https://nestum447.github.io/NovaWave-Solutions/
+
 # NovaWave Solutions - Modern Website
 
 A complete, modern website for **NovaWave Solutions**, a fictional tech startup that provides AI-powered workflow tools for small businesses. Built with pure HTML, CSS, and JavaScript.
